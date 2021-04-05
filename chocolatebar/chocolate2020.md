@@ -1,5 +1,15 @@
 # Context
 
+
+School project based on exploring a dataset about chocolate ratings, its ingredients and countries of origin, etc. EDA and development of machine learning algorithms to predict a target variable, and exploring some of pyspark functionalities.
+
+- Predicting of chocolate bars ratings
+- topic modelling on ingredients/flavour tastings.
+
+
+# info
+
+
 Chocolate is one of the most popular candies in the world. Each year, residents of the United States collectively eat more than 2.8 billion pounds. However, not all chocolate bars are created equal! This dataset contains expert ratings of over 1,700 individual chocolate bars, along with information on their regional origin, percentage of cocoa, the variety of chocolate bean used, and where the beans were grown.
 
 

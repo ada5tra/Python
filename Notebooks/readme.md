@@ -1,6 +1,8 @@
-A folder for coursework exploratory projects
+# A folder for coursework exploratory/machine learning projects and exercises.
 
-* A series - simple projects done for learning/homework
-* B series - projects done for fun, exploring the most popular on UCI Machine Learning Repository
-* kaggle tutorials
-* kaggle competitions submissions
+* Predicting a handrwitten digit based off the image, using keras and perceptron. - mnist dataset
+* Binary result of classification - predicting credible or not credible clients based off credit card info. Decision tree classifier.
+* Categorical prediction of iris flower species using K neighbors.
+* Predicting house sale prices with linear regression.
+* Predicting if a person is diabetic or not (binary) using health variables using logistic regression and Naive Bayes,+ complete EDA.
+* Kaggle folder with my datasets and competitions.
